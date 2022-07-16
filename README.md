@@ -53,9 +53,3 @@ now we want to combine the above with a simple web app to make the predictions f
 * in folder ```deployment``` use ```docker-compose.yaml``` to run both services
 * start services with ```docker-compose up```
 
-
-## Refereces that helped me
-* https://github.com/pytorch/serve/
-* https://towardsdatascience.com/deploy-models-and-create-custom-handlers-in-torchserve-fc2d048fbe91
-* https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c
-* https://levelup.gitconnected.com/how-to-access-a-docker-container-from-another-container-656398c93576
