@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+data/
+deployment/model-store/*
+deployment/logs/*
+deployment/mnist_cnn.pt
+deployment/deploy.py
+deployment/config.properties
+deployment/mnist_handler.py
+deployment/app/__pycache__
+deployment/templates/index2.html
+MNIST.ipynb
